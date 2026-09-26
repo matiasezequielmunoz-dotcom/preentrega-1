@@ -1,0 +1,294 @@
+[
+  {
+    "id": 1,
+    "titulo": "The Crown",
+    "categoria": "Serie",
+    "genero": "Drama, Hechos verídicos",
+    "sinopsis": "Recorre el reinado de Isabel II desde su juventud, mostrando cómo la vida privada de la familia real choca con las obligaciones de la Corona y los grandes acontecimientos políticos del siglo XX.",
+    "temporadas": 6,
+    "reparto": "Claire Foy, Olivia Colman, Imelda Staunton, Matt Smith, Tobias Menzies, Vanessa Kirby",
+    "trailer": "https://www.youtube.com/results?search_query=The+Crown+trailer+oficial"
+  },
+  {
+    "id": 2,
+    "titulo": "Riverdale",
+    "categoria": "Serie",
+    "genero": "Drama, Misterio, Suspenso",
+    "sinopsis": "Detrás de la fachada tranquila de un pueblo pequeño, un grupo de estudiantes investiga un crimen que deja al descubierto los secretos más oscuros de sus familias y vecinos.",
+    "temporadas": 7,
+    "reparto": "KJ Apa, Lili Reinhart, Camila Mendes, Cole Sprouse, Madelaine Petsch",
+    "trailer": "https://www.youtube.com/results?search_query=Riverdale+trailer+oficial"
+  },
+  {
+    "id": 3,
+    "titulo": "The Mandalorian",
+    "categoria": "Serie",
+    "genero": "Ciencia Ficción, Aventura, Acción",
+    "sinopsis": "Tras la caída del Imperio, un cazarrecompensas solitario recorre los confines de la galaxia y termina protegiendo a una misteriosa criatura que muchos quieren capturar.",
+    "temporadas": 3,
+    "reparto": "Pedro Pascal, Gina Carano, Giancarlo Esposito, Carl Weathers, Katee Sackhoff",
+    "trailer": "https://www.youtube.com/results?search_query=The+Mandalorian+trailer+oficial"
+  },
+  {
+    "id": 4,
+    "titulo": "The Umbrella Academy",
+    "categoria": "Serie",
+    "genero": "Ciencia Ficción, Acción, Comedia",
+    "sinopsis": "Un grupo de hermanos adoptivos con poderes extraordinarios se reencuentra tras la muerte de su padre y descubre que tiene pocos días para evitar el fin del mundo.",
+    "temporadas": 4,
+    "reparto": "Elliot Page, Tom Hopper, David Castañeda, Emmy Raver-Lampman, Robert Sheehan, Aidan Gallagher",
+    "trailer": "https://www.youtube.com/results?search_query=The+Umbrella+Academy+trailer+oficial"
+  },
+  {
+    "id": 5,
+    "titulo": "Gambito de Dama",
+    "categoria": "Serie",
+    "genero": "Drama",
+    "sinopsis": "Una huérfana con un talento excepcional para el ajedrez se abre camino en un mundo dominado por hombres mientras lucha contra sus propias adicciones.",
+    "temporadas": 1,
+    "reparto": "Anya Taylor-Joy, Thomas Brodie-Sangster, Harry Melling, Moses Ingram, Bill Camp"
+  },
+  {
+    "id": 6,
+    "titulo": "Enola Holmes",
+    "categoria": "Película",
+    "genero": "Aventura, Misterio, Comedia",
+    "sinopsis": "La hermana menor de Sherlock Holmes decide buscar por su cuenta a su madre desaparecida y, en el camino, se ve envuelta en una conspiración que involucra a un joven lord.",
+    "temporadas": "N/A",
+    "reparto": "Millie Bobby Brown, Henry Cavill, Sam Claflin, Helena Bonham Carter",
+    "trailer": "https://www.youtube.com/results?search_query=Enola+Holmes+trailer+oficial"
+  },
+  {
+    "id": 7,
+    "titulo": "Guasón",
+    "categoria": "Película",
+    "genero": "Drama, Suspenso",
+    "sinopsis": "Un comediante fracasado y marginado por la sociedad de Ciudad Gótica atraviesa una espiral de violencia que lo transforma en uno de los criminales más temidos.",
+    "temporadas": "N/A",
+    "reparto": "Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy",
+    "trailer": "https://www.youtube.com/results?search_query=Guason+Joker+trailer+oficial"
+  },
+  {
+    "id": 8,
+    "titulo": "Avengers: Endgame",
+    "categoria": "Película",
+    "genero": "Acción, Aventura, Ciencia Ficción",
+    "sinopsis": "Después de perder a la mitad del universo, los Vengadores sobrevivientes se reúnen para un último intento de revertir el daño y enfrentar nuevamente a Thanos.",
+    "temporadas": "N/A",
+    "reparto": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
+    "trailer": "https://www.youtube.com/results?search_query=Avengers+Endgame+trailer+oficial"
+  },
+  {
+    "id": 9,
+    "titulo": "Black Widow",
+    "categoria": "Película",
+    "genero": "Acción, Aventura",
+    "sinopsis": "Natasha Romanoff se enfrenta a su pasado cuando una peligrosa conspiración la obliga a reencontrarse con la familia que dejó atrás antes de convertirse en Vengadora.",
+    "temporadas": "N/A",
+    "reparto": "Scarlett Johansson, Florence Pugh, David Harbour, Rachel Weisz, O-T Fagbenle",
+    "trailer": "https://www.youtube.com/results?search_query=Black+Widow+trailer+oficial"
+  },
+  {
+    "id": 10,
+    "titulo": "AVA",
+    "categoria": "Película",
+    "genero": "Acción, Suspenso",
+    "sinopsis": "Una asesina a sueldo que trabaja para una organización secreta se convierte en blanco de sus propios jefes después de cuestionar una misión que sale mal.",
+    "temporadas": "N/A",
+    "reparto": "Jessica Chastain, John Malkovich, Colin Farrell, Common, Geena Davis",
+    "trailer": "https://www.youtube.com/results?search_query=AVA+2020+trailer+oficial"
+  },
+  {
+    "id": 11,
+    "titulo": "AntiTrust",
+    "categoria": "Película",
+    "genero": "Suspenso, Drama",
+    "sinopsis": "Un joven programador talentoso consigue el trabajo de sus sueños en una gran empresa de software, pero pronto sospecha que su jefe esconde algo muy peligroso.",
+    "temporadas": "N/A",
+    "reparto": "Ryan Phillippe, Tim Robbins, Rachael Leigh Cook, Claire Forlani"
+  },
+  {
+    "id": 12,
+    "titulo": "La Liga de la Justicia de Zack Snyder",
+    "categoria": "Película",
+    "genero": "Acción, Aventura, Fantasía",
+    "sinopsis": "Batman y la Mujer Maravilla reúnen a un equipo de héroes con habilidades únicas para defender la Tierra de una amenaza de proporciones catastróficas.",
+    "temporadas": "N/A",
+    "reparto": "Ben Affleck, Henry Cavill, Gal Gadot, Jason Momoa, Ezra Miller, Ray Fisher",
+    "trailer": "https://www.youtube.com/results?search_query=Liga+de+la+Justicia+de+Zack+Snyder+trailer+oficial"
+  },
+  {
+    "id": 13,
+    "titulo": "Stranger Things",
+    "categoria": "Serie",
+    "genero": "Ciencia Ficción, Terror, Drama",
+    "sinopsis": "En un pequeño pueblo de los años ochenta, la desaparición de un niño lleva a sus amigos a descubrir experimentos secretos, fuerzas sobrenaturales y a una misteriosa niña.",
+    "temporadas": 5,
+    "reparto": "Millie Bobby Brown, Winona Ryder, David Harbour, Finn Wolfhard, Gaten Matarazzo, Caleb McLaughlin, Noah Schnapp",
+    "trailer": "https://www.youtube.com/results?search_query=Stranger+Things+trailer+oficial"
+  },
+  {
+    "id": 14,
+    "titulo": "La Casa de Papel",
+    "categoria": "Serie",
+    "genero": "Suspenso, Acción, Drama",
+    "sinopsis": "Un enigmático profesor reúne a un grupo de delincuentes con alias de ciudades para ejecutar un atraco sin precedentes en la Fábrica Nacional de Moneda y Timbre de España.",
+    "temporadas": 5,
+    "reparto": "Úrsula Corberó, Álvaro Morte, Itziar Ituño, Pedro Alonso, Miguel Herrán",
+    "trailer": "https://www.youtube.com/results?search_query=La+Casa+de+Papel+trailer+oficial"
+  },
+  {
+    "id": 15,
+    "titulo": "El Eternauta",
+    "categoria": "Serie",
+    "genero": "Ciencia Ficción, Drama, Suspenso",
+    "sinopsis": "Una nevada tóxica cae sobre Buenos Aires y mata a casi toda la población. Un grupo de sobrevivientes debe organizarse para resistir a una invasión que recién comienza.",
+    "temporadas": 1,
+    "reparto": "Ricardo Darín, Carla Peterson, César Troncoso, Andrea Pietra, Ariel Staltari",
+    "trailer": "https://www.youtube.com/results?search_query=El+Eternauta+serie+trailer+oficial"
+  },
+  {
+    "id": 16,
+    "titulo": "Relatos Salvajes",
+    "categoria": "Película",
+    "genero": "Comedia, Drama, Suspenso",
+    "sinopsis": "Seis historias independientes muestran a personas comunes que, frente a una situación injusta o absurda, pierden el control y reaccionan de las formas más extremas.",
+    "temporadas": "N/A",
+    "reparto": "Ricardo Darín, Leonardo Sbaraglia, Érica Rivas, Darío Grandinetti, Rita Cortese, Oscar Martínez"
+  },
+  {
+    "id": 17,
+    "titulo": "El Secreto de sus Ojos",
+    "categoria": "Película",
+    "genero": "Suspenso, Drama, Romance",
+    "sinopsis": "Un empleado judicial retirado decide escribir una novela sobre un crimen que investigó décadas atrás, y al hacerlo reabre heridas del caso y de un amor nunca confesado.",
+    "temporadas": "N/A",
+    "reparto": "Ricardo Darín, Soledad Villamil, Guillermo Francella, Pablo Rago, Javier Godino",
+    "trailer": "https://www.youtube.com/results?search_query=El+Secreto+de+sus+Ojos+trailer+oficial"
+  },
+  {
+    "id": 18,
+    "titulo": "Argentina, 1985",
+    "categoria": "Película",
+    "genero": "Drama, Hechos verídicos",
+    "sinopsis": "Un fiscal y su joven equipo se enfrentan a amenazas y presiones mientras preparan el histórico juicio a los responsables de la última dictadura militar argentina.",
+    "temporadas": "N/A",
+    "reparto": "Ricardo Darín, Peter Lanzani, Alejandra Flechner, Norman Briski"
+  },
+  {
+    "id": 19,
+    "titulo": "Breaking Bad",
+    "categoria": "Serie",
+    "genero": "Drama, Suspenso",
+    "sinopsis": "Un profesor de química con una enfermedad terminal se asocia con un exalumno para fabricar metanfetamina y asegurar el futuro económico de su familia.",
+    "temporadas": 5,
+    "reparto": "Bryan Cranston, Aaron Paul, Anna Gunn, Dean Norris, Bob Odenkirk, Giancarlo Esposito",
+    "trailer": "https://www.youtube.com/results?search_query=Breaking+Bad+trailer+oficial"
+  },
+  {
+    "id": 20,
+    "titulo": "Merlina",
+    "categoria": "Serie",
+    "genero": "Comedia, Misterio, Fantasía",
+    "sinopsis": "Merlina Addams llega a una academia para jóvenes con habilidades especiales, donde intenta dominar sus poderes y resolver una serie de asesinatos que aterrorizan al pueblo.",
+    "temporadas": 2,
+    "reparto": "Jenna Ortega, Catherine Zeta-Jones, Luis Guzmán, Emma Myers, Gwendoline Christie",
+    "trailer": "https://www.youtube.com/results?search_query=Merlina+Wednesday+trailer+oficial"
+  },
+  {
+    "id": 21,
+    "titulo": "The Last of Us",
+    "categoria": "Serie",
+    "genero": "Drama, Ciencia Ficción, Terror",
+    "sinopsis": "Veinte años después de una pandemia que devastó a la humanidad, un contrabandista endurecido debe escoltar a una adolescente a través de un país en ruinas.",
+    "temporadas": 2,
+    "reparto": "Pedro Pascal, Bella Ramsey, Gabriel Luna, Anna Torv, Nick Offerman",
+    "trailer": "https://www.youtube.com/results?search_query=The+Last+of+Us+serie+trailer+oficial"
+  },
+  {
+    "id": 22,
+    "titulo": "Duna",
+    "categoria": "Película",
+    "genero": "Ciencia Ficción, Aventura",
+    "sinopsis": "El heredero de una familia noble viaja al planeta desértico más peligroso del universo, fuente del recurso más valioso de la galaxia, donde queda atrapado en una lucha por el poder.",
+    "temporadas": "N/A",
+    "reparto": "Timothée Chalamet, Rebecca Ferguson, Oscar Isaac, Zendaya, Jason Momoa, Josh Brolin",
+    "trailer": "https://www.youtube.com/results?search_query=Duna+2021+trailer+oficial"
+  },
+  {
+    "id": 23,
+    "titulo": "Oppenheimer",
+    "categoria": "Película",
+    "genero": "Drama, Hechos verídicos",
+    "sinopsis": "Retrata la vida del físico que dirigió el desarrollo de la primera bomba atómica y los dilemas morales y políticos que lo persiguieron después.",
+    "temporadas": "N/A",
+    "reparto": "Cillian Murphy, Emily Blunt, Matt Damon, Robert Downey Jr., Florence Pugh",
+    "trailer": "https://www.youtube.com/results?search_query=Oppenheimer+trailer+oficial"
+  },
+  {
+    "id": 24,
+    "titulo": "Coco",
+    "categoria": "Película",
+    "genero": "Animación, Aventura, Familia",
+    "sinopsis": "Un niño mexicano que sueña con ser músico viaja accidentalmente a la Tierra de los Muertos, donde busca a su tatarabuelo para descubrir la verdad sobre su familia.",
+    "temporadas": "N/A",
+    "reparto": "Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach"
+  },
+  {
+    "id": 25,
+    "titulo": "Toy Story",
+    "categoria": "Película",
+    "genero": "Animación, Comedia, Familia",
+    "sinopsis": "Los juguetes de un niño cobran vida cuando nadie los ve, y la llegada de un moderno guardián espacial pone en jaque el liderazgo de un vaquero de trapo.",
+    "temporadas": "N/A",
+    "reparto": "Tom Hanks, Tim Allen, Don Rickles, Jim Varney"
+  },
+  {
+    "id": 26,
+    "titulo": "Friends",
+    "categoria": "Serie",
+    "genero": "Comedia",
+    "sinopsis": "Seis amigos que viven en Nueva York comparten trabajos, romances, mudanzas y tardes interminables en su cafetería favorita.",
+    "temporadas": 10,
+    "reparto": "Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry, David Schwimmer",
+    "trailer": "https://www.youtube.com/results?search_query=Friends+serie+trailer"
+  },
+  {
+    "id": 27,
+    "titulo": "The Office",
+    "categoria": "Serie",
+    "genero": "Comedia",
+    "sinopsis": "Un falso documental sigue el día a día de los empleados de una distribuidora de papel y de su jefe, tan bienintencionado como incómodo.",
+    "temporadas": 9,
+    "reparto": "Steve Carell, Rainn Wilson, John Krasinski, Jenna Fischer, Ed Helms"
+  },
+  {
+    "id": 28,
+    "titulo": "Interestelar",
+    "categoria": "Película",
+    "genero": "Ciencia Ficción, Drama, Aventura",
+    "sinopsis": "Con la Tierra al borde del colapso, un expiloto se une a una misión que atraviesa un agujero de gusano en busca de un nuevo hogar para la humanidad.",
+    "temporadas": "N/A",
+    "reparto": "Matthew McConaughey, Anne Hathaway, Jessica Chastain, Michael Caine, Matt Damon",
+    "trailer": "https://www.youtube.com/results?search_query=Interestelar+trailer+oficial"
+  },
+  {
+    "id": 29,
+    "titulo": "Barbie",
+    "categoria": "Película",
+    "genero": "Comedia, Fantasía",
+    "sinopsis": "Tras una crisis existencial, Barbie abandona su mundo perfecto y viaja junto a Ken al mundo real, donde descubre que las cosas no son como imaginaba.",
+    "temporadas": "N/A",
+    "reparto": "Margot Robbie, Ryan Gosling, America Ferrera, Kate McKinnon",
+    "trailer": "https://www.youtube.com/results?search_query=Barbie+2023+trailer+oficial"
+  },
+  {
+    "id": 30,
+    "titulo": "Dark",
+    "categoria": "Serie",
+    "genero": "Ciencia Ficción, Misterio, Drama",
+    "sinopsis": "La desaparición de dos niños en un pueblo alemán revela los vínculos ocultos entre cuatro familias y un misterio que se extiende a lo largo de varias generaciones.",
+    "temporadas": 3,
+    "reparto": "Louis Hofmann, Lisa Vicari, Oliver Masucci, Jördis Triebel, Maja Schöne"
+  }
+]
