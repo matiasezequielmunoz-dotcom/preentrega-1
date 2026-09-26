@@ -1,0 +1,15 @@
+{
+  "name": "preentrega1-trailerflix",
+  "version": "1.0.0",
+  "description": "1ra pre-entrega - API REST con Express sobre trailerflix.json",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
