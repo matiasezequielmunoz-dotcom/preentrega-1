@@ -8,7 +8,7 @@ cp .env.example .env
 npm start
 ```
 
-Por defecto queda en `http://localhost:3000`.
+Por defecto queda en `http://localhost:3008`.
 
 ## Endpoints
 
@@ -34,4 +34,3 @@ GET /trailer/2
 
 - El JSON se lee una sola vez al arrancar el servidor (Filesystem API, `fs.readFileSync`).
 - Puerto y ruta del dataset se configuran en `.env` (no se sube al repo, solo `.env.example`).
-- Reemplazar `data/trailerflix.json` por el dataset real del curso.
